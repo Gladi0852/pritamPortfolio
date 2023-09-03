@@ -1216,8 +1216,9 @@ footer h3 span{
     #header .content .buttons{
         width: 70%;
     }
-    #header .content .buttons{
+    #header .content .buttons button{
         font-size: 3.5rem;
+    }
     body .up-arrow{
         width: 40px;
         height: 40px;
@@ -1292,7 +1293,7 @@ footer h3 span{
     .content .buttons .animate,
     .social .animate{
         background-color: #eefbff;
-}
+    }
 }
 
 /* animation */
