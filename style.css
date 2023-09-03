@@ -43,7 +43,7 @@ body .up-arrow a{
 
 #header{
     width: 100vw;
-    height: 100vh;
+    height: 95vh;
     background: url('./images/banner2.png');
     background-position: center;
     background-size: cover;
@@ -1176,7 +1176,7 @@ footer h3 span{
 
 @media (max-width: 650px){
     :root{
-        font-size: 38%;
+        font-size: 35%;
     }
     #header{
         background: none;
@@ -1214,7 +1214,7 @@ footer h3 span{
         font-size: 2.5rem;
     }
     #header .content .buttons{
-        width: 65%;
+        width: 70%;
     }
     body .up-arrow{
         width: 40px;
