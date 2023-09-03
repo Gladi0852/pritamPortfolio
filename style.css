@@ -1214,10 +1214,10 @@ footer h3 span{
         font-size: 3.5rem;
     }
     #header .content .buttons{
-        width: 80%;
+        width: 90%;
     }
     #header .content .buttons button{
-        font-size: 3.5rem;
+        font-size: 3.2rem;
     }
     body .up-arrow{
         width: 40px;
@@ -1273,17 +1273,26 @@ footer h3 span{
         gap: 2.5em;
     }
     #contact .contact-box .grid-box .input-box input{
+        font-size: 3.5rem;
+    }
+    #contact .contact-box .grid-box .input-box span{
         font-size: 3rem;
     }
     #contact .contact-box textarea{
+        font-size: 3.5rem;
+    }
+    #contact .contact-box textarea::placeholder{
+        font-size: 3rem;
+    }
+    #contact .contact-box button{
         font-size: 3rem;
     }
     footer .content .profile{
         flex-direction: column;
         gap: 1em;
     }
-    footer .logo{
-        font-size: 6rem;
+    footer .logo h1{
+        font-size: 5rem;
     }
     footer .content .profile a{
         font-size: 1.8rem;
