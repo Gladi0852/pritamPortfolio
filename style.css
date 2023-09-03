@@ -1284,6 +1284,10 @@ footer h3 span{
     #contact .contact-box textarea::placeholder{
         font-size: 3rem;
     }
+    #contact .contact-box .grid-box .input-box input:not(:placeholder-shown) ~ span,
+    #contact .contact-box .grid-box .input-box input:focus ~ span{
+        top: -3rem;
+    }
     #contact .contact-box button{
         font-size: 3rem;
     }
